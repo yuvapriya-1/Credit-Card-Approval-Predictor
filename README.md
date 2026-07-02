@@ -1,6 +1,4 @@
 # AI-ML-Credit Card Approval Prediction
-
-# [Credit Card Approval Prediction]/
    * data/                             <-- Raw dataset files
    * models/                           <-- Serialized model weights / scaler parameters
    * templates/                        <-- Frontend layouts
