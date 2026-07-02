@@ -7,7 +7,7 @@
    * train.py                          <-- Model training script
    * app.py                            <-- Web server script
    * requirements.txt                  <-- Package dependencies list
-# project-documentation/               <-- Documentations folder
+# Project-Documentation/               <-- Documentations folder
     ├── 1. Brainstorming & Ideation/
     |       -Brainstorming & Idea Prioritization.pdf
     |       -Define Problem Statements.pdf
