@@ -1,13 +1,4 @@
 # AI-ML-Credit Card Approval Prediction
-   * data/                             <-- Raw dataset files
-   * models/                           <-- Serialized model weights / scaler parameters
-   * templates/                        <-- Frontend layouts
-   * static/                           <-- CSS stylesheets and JavaScript scripts
-   * notebook.ipynb                    <-- Exploratory data notebook
-   * train.py                          <-- Model training script
-   * app.py                            <-- Web server script
-   * requirements.txt                  <-- Package dependencies list
-# Project-Documentation/               <-- Documentations folder
     ├── 1. Brainstorming & Ideation/
     |       -Brainstorming & Idea Prioritization.pdf
     |       -Define Problem Statements.pdf
@@ -38,4 +29,13 @@
     |       -Demonstration of proposed Features.pdf
     |       -Scalability & Future Plan.pdf
     |       -Team Involvement in Demonstration.pdf
+  # source code folder
+   * data/                             <-- Raw dataset files
+   * models/                           <-- Serialized model weights / scaler parameters
+   * templates/                        <-- Frontend layouts
+   * static/                           <-- CSS stylesheets and JavaScript scripts
+   * notebook.ipynb                    <-- Exploratory data notebook
+   * train.py                          <-- Model training script
+   * app.py                            <-- Web server script
+   * requirements.txt                  <-- Package dependencies list
         
