@@ -1,5 +1,5 @@
 # AI-ML-Credit Card Approval Prediction
-This project predicts whether a credit card application is approved or rejected using a Machine Learning model.
+*This project predicts whether a credit card application is approved or rejected using a Machine Learning model.
     ├── 1. Brainstorming & Ideation/
     |       -Brainstorming & Idea Prioritization.pdf
     |       -Define Problem Statements.pdf
