@@ -1,4 +1,5 @@
 # AI-ML-Credit Card Approval Prediction
+This project predicts whether a credit card application is approved or rejected using a Machine Learning model.
     ├── 1. Brainstorming & Ideation/
     |       -Brainstorming & Idea Prioritization.pdf
     |       -Define Problem Statements.pdf
@@ -29,7 +30,7 @@
     |       -Demonstration of proposed Features.pdf
     |       -Scalability & Future Plan.pdf
     |       -Team Involvement in Demonstration.pdf
-  # source code folder(5th phase)
+  # Source code folder(5th phase)
    * data/                             <-- Raw dataset files
    * models/                           <-- Serialized model weights / scaler parameters
    * templates/                        <-- Frontend layouts
@@ -38,5 +39,6 @@
    * train.py                          <-- Model training script
    * app.py                            <-- Web server script
    * requirements.txt                  <-- Package dependencies list
-   # # Render Deployment: https://credit-card-approval-predictor.onrender.com
+   # # Live Demo
+   Render Deployment: https://credit-card-approval-predictor.onrender.com
         
